@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yiwei Zhang, a fourth-year Ph.D. student in [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by Prof. Yunquan Zhang. I am currently a full-time research intern in Heterogeneous Extreme Computing (HEX) Group of Microsoft Research Asia (MSRA), advised by [Dr. Ting Cao](https://www.microsoft.com/en-us/research/people/ticao/) and [Dr. Kun Li](https://www.likun.tech/).
+I am Yiwei Zhang, a fourth-year Ph.D. student in [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by Prof. Yunquan Zhang. I am currently a full-time research intern in Heterogeneous Extreme Computing (HEX) Group of Microsoft Research Asia (MSRA), advised by [Dr. Kun Li](https://www.likun.tech/) and [Dr. Ting Cao](https://www.microsoft.com/en-us/research/people/ticao/).
 I obtained my B.Eng. degree from [the Department of Computer Science and Technology, Tsinghua University](https://www.cs.tsinghua.edu.cn/) in 2021.
 
 My research interests include high-performance computing and parallel heterogeneous computing. Previously, I focused primarily on data-level parallel optimization for stencil computations, with related research published at the two top international HPC conferences. Recently, I have developed a strong interest in MLSys and LLMs. If you are interested in collaborating or have any guidance to offer, I would be delighted to hear from you.
@@ -60,7 +60,7 @@ Xinyao Chen, **Yiwei Zhang**, Yanghao Li and Jiangtao Wen. In 2021 IEEE Internat
 - *2025.03*, "Jigsaw: Toward Conflict-free Vectorized Stencil Computation by Tessellating Swizzled Registers". ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (**PPoPP**), Las Vegas, NV, USA.
 - *2025.03*, "FlashFFTStencil: Bridging Fast Fourier Transforms to Memory-Efficient Stencil Computations on Tensor Core Units". ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (**PPoPP**), Las Vegas, NV, USA.
 - *2024.11*, "LoRAStencil: Low-Rank Adaptation of Stencil Computation on Tensor Cores". High Performance Youth Forum, Chongqing, China.
-- *2024.11*, "LoRAStencil: Low-Rank Adaptation of Stencil Computation on Tensor Cores". International Conference for High Performance Computing, Networking, Storage and Analysis (**SC**), Atlanta, USA. 
+- *2024.11*, "LoRAStencil: Low-Rank Adaptation of Stencil Computation on Tensor Cores". International Conference for High Performance Computing, Networking, Storage and Analysis (**SC**), Atlanta, GA, USA. 
 
 
 # 💻 Internships

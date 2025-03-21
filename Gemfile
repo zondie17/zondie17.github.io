@@ -25,3 +25,11 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+gem "csv"
+gem "base64"
+gem "logger"
+gem "bigdecimal"
+gem "liquid", "~> 4.0.4"
+gem "webrick"
+gem "bcrypt"

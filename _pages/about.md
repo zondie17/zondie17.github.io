@@ -17,42 +17,51 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Yiwei Zhang, a fourth-year Ph.D. student in [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by Prof. Yunquan Zhang. I am currently a full-time research intern in Heterogeneous Extreme Computing (HEX) Group of Microsoft Research Asia (MSRA), advised by [Dr. Ting Cao](https://www.microsoft.com/en-us/research/people/ticao/) and [Dr. Kun Li](https://www.likun.tech/).
+I obtained my B.Eng. degree from [the Department of Computer Science and Technology, Tsinghua University](https://www.cs.tsinghua.edu.cn/) in 2021.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include high-performance computing and parallel heterogeneous computing. Previously, I focused primarily on data-level parallel optimization for stencil computations, with related research published at the two top international HPC conferences. Recently, I have developed a strong interest in MLSys and LLMs. If you are interested in collaborating or have any guidance to offer, I would be delighted to hear from you.
+
+If you'd like to discuss anything further, please don't hesitate to reach out.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*: &nbsp;🎉🎉 Our paper *Jigsaw: Toward Conflict-free Vectorized Stencil Computation by Tessellating Swizzled Registers* has been accepted by **ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming 2025 (PPoPP'25)**. 
+- *2024.07*: &nbsp;🎉🎉 Our paper *LoRAStencil: Low-Rank Adaptation of Stencil Computation on Tensor Cores* has been accepted by **International Conference for High Performance Computing, Networking, Storage and Analysis (SC'24)**.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [**PPoPP'25**] [Jigsaw: Toward Conflict-free Vectorized Stencil Computation by Tessellating Swizzled Registers](https://dl.acm.org/doi/abs/10.1145/3710848.3710886)  
+ **Yiwei Zhang**, Kun Li, Liang Yuan, Haozhi Han, Yunquan Zhang, Ting Cao and Mao Yang. In ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, Las Vegas, NV, USA. pp. 481-495. Association for Computing Machinery, 2025.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- [**SC'24**] [LoRAStencil: Low-Rank Adaptation of Stencil Computation on Tensor Cores](https://ieeexplore.ieee.org/abstract/document/10793164)  
+**Yiwei Zhang**, Kun Li, Liang Yuan, Jiawen Cheng, Yunquan Zhang, Ting Cao and Mao Yang. In International Conference for High Performance Computing, Networking, Storage and Analysis, Atlanta, GA, USA. pp. 839-855. IEEE Computer Society, 2024.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- [**PPoPP'25**] [FlashFFTStencil: Bridging Fast Fourier Transforms to Memory-Efficient Stencil Computations on Tensor Core Units](https://dl.acm.org/doi/abs/10.1145/3710848.3710897)  
+Haozhi Han, Kun Li, Wei Cui, Donglin Bai, **Yiwei Zhang**, Liang Yuan, Yifeng Chen, Yunquan Zhang, Ting Cao and Mao Yang. In ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, Las Vegas, NV, USA. pp. 355-368. Association for Computing Machinery, 2025.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- [**PPoPP'23**] [Generating Fast FFT Kernels on CPUs via FFT-Specific Intrinsics](https://dl.acm.org/doi/abs/10.1145/3572848.3577477)  
+Zhihao Li, Haipeng Jia, Yunquan Zhang, Yuyan Sun, **Yiwei Zhang** and Tun Chen. In ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, Montreal, QC, Canada. pp.427 - 428. Association for Computing Machinery, 2023.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [**ICASSP'21**] [Decision Tree Based Inter Partition Termination For Av1 Encoding](https://ieeexplore.ieee.org/abstract/document/9413481?casa_token=PV-wJc_JQCAAAAAA:2FaGOOheYZzkrmQ70AJYsTr_r7jnCU8apheJvm6LGVia-RAj36ujIqix0pA6vLKw6xsqH_J5wa8J)  
+Xinyao Chen, **Yiwei Zhang**, Yanghao Li and Jiangtao Wen. In 2021 IEEE International Conference on Acoustics, Speech and Signal Processing, Toronto, ON, Canada. pp. 1585-1589. IEEE, 2021.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01* - Director's Excellence Award (Institute of Computing Technology), University of Chinese Academy of Sciences.
+- *2024.10* - First-Class Graduate Academic Scholarship, University of Chinese Academy of Sciences.
+- *2024.05* - Honors for Merit Student, University of Chinese Academy of Sciences. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - Present*, Ph.D. student, [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/). 
+- *2017.09 - 2021.07*, Undergraduate student, [Department of Computer Science and Technology, Tsinghua University](https://www.cs.tsinghua.edu.cn/).
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.03*, "Jigsaw: Toward Conflict-free Vectorized Stencil Computation by Tessellating Swizzled Registers". ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (**PPoPP**), Las Vegas, NV, USA.
+- *2025.03*, "FlashFFTStencil: Bridging Fast Fourier Transforms to Memory-Efficient Stencil Computations on Tensor Core Units". ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (**PPoPP**), Las Vegas, NV, USA.
+- *2024.11*, "LoRAStencil: Low-Rank Adaptation of Stencil Computation on Tensor Cores". High Performance Youth Forum, Chongqing, China.
+- *2024.11*, "LoRAStencil: Low-Rank Adaptation of Stencil Computation on Tensor Cores". International Conference for High Performance Computing, Networking, Storage and Analysis (**SC**), Atlanta, USA. 
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.05 - Present*, Heterogeneous Extreme Computing (HEX), Microsoft Research Asia (MSRA), Beijing, China.

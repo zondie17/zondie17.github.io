@@ -27,6 +27,7 @@ If you'd like to discuss anything further, please don't hesitate to reach out.
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 Our paper *Jigsaw: Toward Conflict-free Vectorized Stencil Computation by Tessellating Swizzled Registers* has been accepted by **ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming 2025 (PPoPP'25)**. 
+- *2024.11*: &nbsp;🎉🎉 Our paper *LoRAStencil: Low-Rank Adaptation of Stencil Computation on Tensor Cores* was nominated for the **SC'24 Best Reproducibility Advancement Award**.
 - *2024.07*: &nbsp;🎉🎉 Our paper *LoRAStencil: Low-Rank Adaptation of Stencil Computation on Tensor Cores* has been accepted by **International Conference for High Performance Computing, Networking, Storage and Analysis (SC'24)**.
 
 
@@ -49,6 +50,7 @@ Xinyao Chen, **Yiwei Zhang**, Yanghao Li and Jiangtao Wen. In 2021 IEEE Internat
 
 # 🎖 Honors and Awards
 - *2025.01* - Director's Excellence Award (Institute of Computing Technology), University of Chinese Academy of Sciences.
+- *2024.11* - Best Reproducibility Advancement Award Nomination, SC'24.
 - *2024.10* - First-Class Graduate Academic Scholarship, University of Chinese Academy of Sciences.
 - *2024.05* - Honors for Merit Student, University of Chinese Academy of Sciences. 
 

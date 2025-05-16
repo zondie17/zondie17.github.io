@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yiwei Zhang, a fourth-year Ph.D. student in [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by Prof. Yunquan Zhang. I am currently a full-time research intern in Heterogeneous Extreme Computing (HEX) Group of Microsoft Research Asia (MSRA), advised by [Dr. Kun Li](https://www.likun.tech/) and [Dr. Ting Cao](https://www.microsoft.com/en-us/research/people/ticao/).
+I am Yiwei Zhang, a fourth-year Ph.D. student in [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by Prof. Yunquan Zhang. I was a research intern in Heterogeneous Extreme Computing (HEX) Group of Microsoft Research Asia (MSRA), advised by [Dr. Kun Li](https://www.likun.tech/) and [Dr. Ting Cao](https://www.microsoft.com/en-us/research/people/ticao/).
 I obtained my B.Eng. degree from [the Department of Computer Science and Technology, Tsinghua University](https://www.cs.tsinghua.edu.cn/) in 2021.
 
 My research interests include high-performance computing and parallel heterogeneous computing. Previously, I focused primarily on data-level parallel optimization for stencil computations, with related research published at the two top international HPC conferences. Recently, I have developed a strong interest in MLSys and LLMs. If you are interested in collaborating or have any guidance to offer, I would be delighted to hear from you.
@@ -66,4 +66,4 @@ Xinyao Chen, **Yiwei Zhang**, Yanghao Li and Jiangtao Wen. In 2021 IEEE Internat
 
 
 # 💻 Internships
-- *2024.05 - Present*, Heterogeneous Extreme Computing (HEX), Microsoft Research Asia (MSRA), Beijing, China.
+- *2023.09 - 2025.05*, Heterogeneous Extreme Computing (HEX), Microsoft Research Asia (MSRA), Beijing, China.
